@@ -14,7 +14,3 @@ This repository contains a simple C++ program that demonstrates the use of multi
 2. Compile the `matrix_operations.cpp` file using `g++`.
 3. Run the compiled executable.
 4. Follow the prompts to input matrix values.
-
-## Usage
-
-1. Compile:
